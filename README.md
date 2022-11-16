@@ -6,4 +6,4 @@ Instacart is an online grocery store that operates through an app. They already 
 
 ## DATA
 Open source data from Instacard and customer data set created for the purpose of this project.
-[Customer Data Set](https://www.instacart.com/datasets/grocery-shopping-2017)
+[Customer Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
